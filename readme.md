@@ -357,3 +357,13 @@ researchgate主页：https://www.researchgate.net/profile/Minghuan-Guo
 researchgate主页：无  
 谷歌学术主页：无  
 研究领域：非成像光学设计，太阳能聚光系统优化设计，光学测量，光学面形检测，高强度太阳辐射模拟系统设计
+
+#### 华北电力大学
+1. 小组/部门：新能源电力系统国家重点实验室
+* 姓名： 宋记锋  
+职称： 教授  
+邮箱： songjifeng@ncepu.edu.cn  
+个人主页：  https://laps.ncepu.edu.cn/jgdw/sysyjry/sjf.htm  
+researchgate主页：  https://www.researchgate.net/profile/Jifeng-Song  
+谷歌学术主页：  https://scholar.google.com/citations?user=5SzdQssAAAAJ  
+研究领域：太阳能热发电、太阳能电站功率预报
