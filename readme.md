@@ -48,7 +48,7 @@ researchgate主页：https://www.researchgate.net/profile/Clifford-Ho
 
 ## 西班牙
 #### 马德里卡洛斯三世大学(Universidad Carlos III de Madrid)
-1. 小组(部门)：[Energy System Engineering](https://ise.uc3m.es/)
+1. 小组/部门：[Energy System Engineering](https://ise.uc3m.es/)
 
 * Professor Domingo Santana(Head of the group)  
 邮箱： dsantana@ing.uc3m.es  
@@ -79,7 +79,7 @@ researchgate主页：https://www.researchgate.net/profile/Alberto-Sanchez-Gonzal
 研究领域：Concentrated solar power, Heat transfer, Heliostat optics, Building physics  
 
 #### 沙拉哥萨大学(University of Zaragoza, UNIZAR)
-1. 小组(部门)：[VEHIVIAL(New technologies in vehicles and road safety)](http://vehivial.unizar.es/)(这个小组里并不主要研究太阳能)
+1. 小组/部门：[VEHIVIAL(New technologies in vehicles and road safety)](http://vehivial.unizar.es/)(这个小组里并不主要研究太阳能)
 
 * Professor Francisco J. Collado(Francisco Javier Collado Giménez)  
 邮箱： fjk@unizar.es  
@@ -88,7 +88,7 @@ researchgate主页：https://www.researchgate.net/profile/Francisco-Collado-4
 谷歌学术主页：https://scholar.google.com/citations?user=jOpZTloAAAAJ  
 研究领域：Solar Tower Power Plants, Termal Engineering, Fluid Mechanics  
 
-2. 小组(部门)：[GITSE(Thermal Engineering and Energy Systems Group)](https://i3a.unizar.es/es/grupos-de-investigacion/gitse)
+2. 小组/部门：[GITSE(Thermal Engineering and Energy Systems Group)](https://i3a.unizar.es/es/grupos-de-investigacion/gitse)
 
 * Professor Luis M Serra  
 邮箱： serra@unizar.es  
@@ -162,10 +162,26 @@ researchgate主页：https://www.researchgate.net/profile/Erminia-Leonardi
 谷歌学术主页：https://scholar.google.com/citations?user=nKU6Of8AAAAJ  
 研究领域：Solar, Environmental Chemistry, Energy Engieering, Energy, Power Systems
 
+#### 米兰理工大学（Politecnico Milano）
+1. 小组/部门：[能源转换系统小组（Energy Conversion Systems Group , GECOS）](https://www.energia.polimi.it/en/energy-department/research/research-groups/energy-conversion-systems-gecos/#c1840)
+* 姓名：Giampaolo Manzolini
+
+  邮箱：giampaolo.manzolini@polimi.it
+
+  个人主页：[Scheda Docente (polimi.it)](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?k_doc=099115&lang=IT&EVN_PRODOTTI)
+
+  reseachgate主页：[Giampaolo Manzolini](https://www.researchgate.net/profile/Giampaolo-Manzolini)
+
+  谷歌学术主页：[‪Giampaolo Manzolini‬ - ‪Google 学术搜索‬](https://scholar.google.com/citations?user=lCCEe9cAAAAJ)
+
+  研究领域：Energy、Solar Energy、Renewable Energy
+
+  
+
 
 ## 德国
 #### 亚琛工业大学(RWTH Aachen University)
-1. 小组(部门)：[亚琛工艺流程学-过程系统工程-能源和水资源小组(Aachener Verfahrenstechnik-Process Systems Engineering-Energy and Water)](https://www.avt.rwth-aachen.de/cms/AVT/Forschung/Systemverfahrenstechnik/~jxtc/Energie-und-Wasser/lidx/1/)
+1. 小组/部门：[亚琛工艺流程学-过程系统工程-能源和水资源小组(Aachener Verfahrenstechnik-Process Systems Engineering-Energy and Water)](https://www.avt.rwth-aachen.de/cms/AVT/Forschung/Systemverfahrenstechnik/~jxtc/Energie-und-Wasser/lidx/1/)
 
 * Professor Alexander Mitsos  
 邮箱： alexander.mitsos@avt.rwth-aachen.de  
@@ -174,7 +190,7 @@ researchgate主页：https://www.researchgate.net/profile/Alexander-Mitsos
 谷歌学术主页：https://scholar.google.com/citations?user=HF46sqQAAAAJ  
 研究领域：Process Systems engineering, Energy systems, Global optimization, Process design and operations
 
-2. 小组(部门)：[Renewable Energy & Energy Efficiency](https://ths.rwth-aachen.de)
+2. 小组/部门：[Renewable Energy & Energy Efficiency](https://ths.rwth-aachen.de)
 
 * Professor Erika Ábrahám  
 邮箱： abraham@cs.rwth-aachen.de  
@@ -224,7 +240,7 @@ researchgate主页：https://www.researchgate.net/profile/Manuel-Blanco
 
 ## 澳大利亚
 #### 澳大利亚国立大学(Australian National University)：
-1. 小组(部门)：[Solar Energy Research](http://solar.cecs.anu.edu.au/)
+1. 小组/部门：[Solar Energy Research](http://solar.cecs.anu.edu.au/)
 
 * Associate Professor John Pye  
 邮箱： john.pye@anu.edu.au  
@@ -245,7 +261,7 @@ Ye Wang, Charles-Alexis Asselineau, William R Logie等
 
 
 #### 墨尔本大学(The University of Melbourne)
-1. 小组(部门)：[Renewable energy and energy efficiency](https://infrastructure.eng.unimelb.edu.au/energy)(这个小组主要研究太阳能在建筑中的应用、光伏发电等，并不是太阳能热发电)
+1. 小组/部门：[Renewable energy and energy efficiency](https://infrastructure.eng.unimelb.edu.au/energy)(这个小组主要研究太阳能在建筑中的应用、光伏发电等，并不是太阳能热发电)
 
 * Professor Lu Aye  
 邮箱： lua@unimelb.edu.au  
@@ -304,10 +320,6 @@ researchgate主页：https://www.researchgate.net/profile/Mehrdad-Boroushaki-2
 researchgate主页：https://www.researchgate.net/profile/Victor-Grigoriev-2  
 谷歌学术主页：https://scholar.google.com/citations?user=LcqhPgoAAAAJ  
 研究领域：Solar energy  
-
-
-
-
 
 ### 中国  
 #### 中国科学技术大学
@@ -378,7 +390,7 @@ researchgate主页：无
   谷歌学术主页：[‪Chao Xu‬ - ‪Google 学术搜索‬](https://scholar.google.com/citations?user=GNrtqVsAAAAJ)  
   研究领域：CSP、thermal storage、CPV、fuel cell、enhanced heat transfer
 
-## 浙江大学
+#### 浙江大学
 1. 小组/部门：热能工程研究所
 * 姓名：肖刚
 
