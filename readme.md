@@ -9,6 +9,7 @@
 [南非](#南非)  
 [伊朗](#伊朗)  
 [中国](#中国)  
+
 ### 美国
 #### 桑迪亚国家实验室(Sandia National Laboratories)
 1. 小组/部门：[可再生能源-聚光型太阳能热发电(Renewable Energy-Concentrating Solar Power)](https://energy.sandia.gov/programs/renewable-energy/csp/)
@@ -361,9 +362,42 @@ researchgate主页：无
 #### 华北电力大学
 1. 小组/部门：新能源电力系统国家重点实验室
 * 姓名： 宋记锋  
-职称： 教授  
-邮箱： songjifeng@ncepu.edu.cn  
-个人主页：  https://laps.ncepu.edu.cn/jgdw/sysyjry/sjf.htm  
-researchgate主页：  https://www.researchgate.net/profile/Jifeng-Song  
-谷歌学术主页：  https://scholar.google.com/citations?user=5SzdQssAAAAJ  
-研究领域：太阳能热发电、太阳能电站功率预报
+  职称： 教授  
+  邮箱： songjifeng@ncepu.edu.cn  
+  个人主页：  https://laps.ncepu.edu.cn/jgdw/sysyjry/sjf.htm  
+  researchgate主页：  https://www.researchgate.net/profile/Jifeng-Song  
+  谷歌学术主页：  https://scholar.google.com/citations?user=5SzdQssAAAAJ  
+  研究领域：太阳能热发电、太阳能电站功率预报
+
+2. 小组/部门：能源动力与机械工程学院
+
+* 姓名： 徐超  
+  职称： 教授  
+  邮箱： mechxu@ncepu.edu.cn  
+  个人主页：  [华北电力大学能源动力与机械工程学院 (ncepu.edu.cn)](https://thermal.ncepu.edu.cn/szdw/jsdw/cnkxygcjys/3ea33eeff8ac4878b11f98f914a70066.htm)  
+  谷歌学术主页：[‪Chao Xu‬ - ‪Google 学术搜索‬](https://scholar.google.com/citations?user=GNrtqVsAAAAJ)  
+  研究领域：CSP、thermal storage、CPV、fuel cell、enhanced heat transfer
+
+## 浙江大学
+1. 小组/部门：热能工程研究所
+* 姓名：肖刚
+
+  职称：教授
+
+  邮箱：xiaogangtianmen@zju.edu.cn
+
+  个人主页：[肖刚 浙江大学能源工程学院-浙江大学个人主页 (zju.edu.cn)](https://person.zju.edu.cn/xiaogangtianmen#732369)  
+
+  谷歌学术主页：[‪Gang Xiao‬ - ‪Google 学术搜索‬](https://scholar.google.com/citations?user=SeEK8C0AAAAJ&hl=zh-CN&oi=sra)
+
+  研究领域：solar energy
+2. 小组/部门：控制科学与工程学院
+* 姓名：赵豫红
+
+  职称：副教授
+
+  邮箱：yhzhao@zju.edu.cn
+
+  个人主页：[赵豫红-浙江大学个人主页 (zju.edu.cn)](https://person.zju.edu.cn/yhzhao)  
+
+  研究领域：太阳能光热发电、复杂系统的建模、控制与优化
