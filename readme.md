@@ -389,6 +389,11 @@ researchgate主页：无
   个人主页：  [华北电力大学能源动力与机械工程学院 (ncepu.edu.cn)](https://thermal.ncepu.edu.cn/szdw/jsdw/cnkxygcjys/3ea33eeff8ac4878b11f98f914a70066.htm)  
   谷歌学术主页：[‪Chao Xu‬ - ‪Google 学术搜索‬](https://scholar.google.com/citations?user=GNrtqVsAAAAJ)  
   研究领域：CSP、thermal storage、CPV、fuel cell、enhanced heat transfer
+* 姓名： 徐二树  
+  职称： 正高级工程师  
+  邮箱：xuershu@ncepu.edu.cn  
+  个人主页：  [华北电力大学能源动力与机械工程学院 (ncepu.edu.cn)](https://thermal.ncepu.edu.cn/szdw/jsdw/dznlcdzhyxtjybzdsys/c3b5b331b7554160b9a22838e358ab35.htm)  
+  研究领域：复杂热力过程建模与仿真、分布式能源、热电联产、太阳能热发电
 
 #### 浙江大学
 1. 小组/部门：热能工程研究所
