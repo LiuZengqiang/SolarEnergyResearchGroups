@@ -354,16 +354,19 @@ researchgate主页：https://www.researchgate.net/profile/Ze-Dong-Cheng
 #### 中国科学院大学
 1. 小组/部门：中国科学院电工所
 * 姓名：郭明焕  
-职务：硕士生导师  
-邮箱： minghuan_guo@163.com  
-个人主页：http://people.ucas.ac.cn/~0036509  
-researchgate主页：https://www.researchgate.net/profile/Minghuan-Guo  
-谷歌学术主页：无  
-研究领域：Optics and Photonics, Applied Optics  
+  职务：硕士生导师  
+  邮箱： minghuan_guo@163.com  
+  个人主页：http://people.ucas.ac.cn/~0036509  
+  researchgate主页：https://www.researchgate.net/profile/Minghuan-Guo  
+  谷歌学术主页：无  
+  研究领域：Optics and Photonics, Applied Optics  
+
+####  中国农业大学
+1. 信息与电气工程学院
 * 姓名：余强  
-职务：副研究院  
+职务：教授  
 邮箱：yuqiang_21st@sina.com  
-个人主页：http://www.iee.cas.cn/sourcedb_iee_cas/cn/expert/sssds/tynrlyjsyjb/202001/t20200103_5482022.html  
+个人主页：http://faculty.cau.edu.cn/xxdqxy/yq/list.htm  
 研究领域：太阳能热发电技术、太阳能热发电系统建模与仿真  
 #### 中国科学院大学/长春理工大学
 1. 小组/部门：长春光学精密机械与物理研究所  
