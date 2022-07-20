@@ -1,4 +1,5 @@
-**本仓库记录了各国的太阳能研究小组**  
+## 本仓库记录了各国的太阳能研究小组
+
 [美国](#美国)  
 [西班牙](#西班牙)  
 [意大利](#意大利)  
@@ -34,7 +35,7 @@ researchgate主页：https://www.researchgate.net/profile/Clifford-Ho
 * Professor Yogi Goswami  
 邮箱： goswami@usf.edu  
 个人主页：https://www.usf.edu/engineering/chbme/people/goswami.aspx  
-个人简历:http://cerc.eng.usf.edu/pdf/goswami-cv-2019.pdf  
+个人简历：http://cerc.eng.usf.edu/pdf/goswami-cv-2019.pdf  
 谷歌学术主页：https://scholar.google.com/citations?user=6WJTGpoAAAAJ  
 研究领域：Solar Energy, Thermodynamics, Indoor Air Quality
 
@@ -311,7 +312,7 @@ researchgate主页：https://www.researchgate.net/profile/Paul-Gauche
 个人主页：http://sharif.edu/~boroushaki/  
 researchgate主页：https://www.researchgate.net/profile/Mehrdad-Boroushaki-2  
 谷歌学术主页：https://scholar.google.com/citations?user=p0nEJFUAAAAJ  
-研究兴趣:Engineering Applications of Artificial Intelligence, Identification, Optimization and Control of Complex Nonlinear Systems using Intelligent Systems  
+研究兴趣：Engineering Applications of Artificial Intelligence, Identification, Optimization and Control of Complex Nonlinear Systems using Intelligent Systems  
 
 
 * Assistant Professor Victor Grigoriev  
