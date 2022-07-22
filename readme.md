@@ -402,6 +402,14 @@ researchgate主页：无
   邮箱：xuershu@ncepu.edu.cn  
   个人主页：  [华北电力大学能源动力与机械工程学院 (ncepu.edu.cn)](https://thermal.ncepu.edu.cn/szdw/jsdw/dznlcdzhyxtjybzdsys/c3b5b331b7554160b9a22838e358ab35.htm)  
   研究领域：复杂热力过程建模与仿真、分布式能源、热电联产、太阳能热发电
+3. 小组/部门：工程热物理教研室  
+* 姓名：段立强  
+  职称：教授  
+  个人主页：[段立强](https://thermal.ncepu.edu.cn/szdw/jsdw/gcrwljys/b3408c326acf462d8f478f7525db1472.htm)  
+  研究领域：火力发电系统、分布式功能系统、多能互补动力系统
+
+
+
 
 #### 浙江大学
 1. 小组/部门：热能工程研究所
