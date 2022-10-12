@@ -434,3 +434,12 @@ researchgate主页：无
   个人主页：[赵豫红-浙江大学个人主页 (zju.edu.cn)](https://person.zju.edu.cn/yhzhao)  
 
   研究领域：太阳能光热发电、复杂系统的建模、控制与优化
+
+#### 中南大学
+1. 小组/部门：能源科学与工程学院  
+* 姓名：廖胜明  
+  职称：教授  
+  邮箱：无  
+  个人主页：[中南大学 廖胜明](https://faculty.csu.edu.cn/liaoshengming/zh_CN/index.htm)  
+  谷歌学术主页：[Shengming Liao 廖胜明](https://scholar.google.com/citations?user=omyKyVYAAAAJ)  
+  研究领域：Energy system engineering, Renewable energy, Thermodynamics, Heat transfer
