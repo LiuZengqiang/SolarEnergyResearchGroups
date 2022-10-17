@@ -443,3 +443,17 @@ researchgate主页：无
   个人主页：[中南大学 廖胜明](https://faculty.csu.edu.cn/liaoshengming/zh_CN/index.htm)  
   谷歌学术主页：[Shengming Liao 廖胜明](https://scholar.google.com/citations?user=omyKyVYAAAAJ)  
   研究领域：Energy system engineering, Renewable energy, Thermodynamics, Heat transfer
+#### 东南大学
+1. 小组/部门：能源与环境学院  
+* 姓名：王军  
+  职称：教授  
+  邮箱：Wj-jw@seu.edu.cn  
+  个人主页：[东南大学 王军](https://power.seu.edu.cn/wj/list.htm)  
+  谷歌学术主页：无
+  研究领域：Solar Energy  
+* 姓名：杨嵩  
+  学历：博士，伯明翰大学博士后  
+  邮箱：Wj-jw@seu.edu.cn  
+  researchgate主页：[Song Yang](https://www.researchgate.net/profile/Song-Yang-55)  
+  谷歌学术主页：[Song Yang](https://scholar.google.com/citations?user=xGHYeesAAAAJ)
+  研究领域：Solar Thermal, Energy Storage  
