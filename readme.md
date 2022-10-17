@@ -453,7 +453,7 @@ researchgate主页：无
   研究领域：Solar Energy  
 * 姓名：杨嵩  
   学历：博士，伯明翰大学博士后  
-  邮箱：Wj-jw@seu.edu.cn  
+  邮箱：无  
   researchgate主页：[Song Yang](https://www.researchgate.net/profile/Song-Yang-55)  
   谷歌学术主页：[Song Yang](https://scholar.google.com/citations?user=xGHYeesAAAAJ)
   研究领域：Solar Thermal, Energy Storage  
