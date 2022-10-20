@@ -74,7 +74,7 @@ researchgate主页：https://www.researchgate.net/profile/Carolina-Marugan-Cruz/
 
 * Assistant Professor Alberto Sánchez González  
 邮箱： asgonzal@ing.uc3m.es  
-个人主页：https://ise.uc3m.es/people/alberto-sanchez-gonzalez/  
+个人主页：https://ise.uc3m.es/people/alberto-sanchez-gonzalez/：  
 researchgate主页：https://www.researchgate.net/profile/Alberto-Sanchez-Gonzalez  
 谷歌学术主页：https://scholar.google.com/citations?user=xaXejyEAAAAJ  
 研究领域：Concentrated solar power, Heat transfer, Heliostat optics, Building physics  
@@ -455,5 +455,5 @@ researchgate主页：无
   学历：博士，伯明翰大学博士后  
   邮箱：无  
   researchgate主页：[Song Yang](https://www.researchgate.net/profile/Song-Yang-55)  
-  谷歌学术主页：[Song Yang](https://scholar.google.com/citations?user=xGHYeesAAAAJ)
+  谷歌学术主页：[Song Yang](https://scholar.google.com/citations?user=xGHYeesAAAAJ)  
   研究领域：Solar Thermal, Energy Storage  
