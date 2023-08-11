@@ -424,7 +424,7 @@ researchgate主页：https://www.researchgate.net/profile/Ze-Dong-Cheng
 * 姓名：魏秀东  
 职务：副研究员  
 邮箱： weixiudong211@163.com  
-个人主页：https://gd.cust.edu.cn/szdw/jszy/kjgdjzyjs/68165.htm  
+个人主页：https://gd.cust.edu.cn/szdw/jszy/kjgdjsyjs/bea133bda7d34752a6f03d73f1a94286.htm  
 researchgate主页：无  
 谷歌学术主页：无  
 研究领域：非成像光学设计，太阳能聚光系统优化设计，光学测量，光学面形检测，高强度太阳辐射模拟系统设计
