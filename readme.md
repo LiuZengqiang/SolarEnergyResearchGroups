@@ -406,6 +406,13 @@ researchgate主页：https://www.researchgate.net/profile/Ze-Dong-Cheng
   researchgate主页：https://www.researchgate.net/profile/Minghuan-Guo  
   谷歌学术主页：无  
   研究领域：Optics and Photonics, Applied Optics  
+* 姓名：臧春城  
+  职务：副研究员  
+  邮箱：zangchch@mail.iee.ac.cn  
+  个人主页：http://www.iee.cas.cn/sourcedb_iee_cas/cn/expert/sssds/tynrlyjsyjb/202004/t20200408_5535276.html    
+  researchgate主页：https://www.researchgate.net/profile/Chuncheng-Zang    
+  谷歌学术主页：无  
+  研究领域：Structural Engineering, Civil Engineering, Mechanical Engineering    
 
 <div id="中国农业大学"><div>  
 
