@@ -395,6 +395,13 @@ researchgate主页：https://www.researchgate.net/profile/Ze-Dong-Cheng
 谷歌学术主页：https://scholar.google.com/citations?user=bLri0PUAAAAJ&hl=zh-CN&oi=sra  
 研究领域：Solar Energy, Solar Thermochemistry, Monte Carlo Ray-Tracing, Heat & Mass Transfer
 
+* 姓名：孙杰  
+职务：研究员  
+邮箱：sunjie@xjtu.edu.cn  
+个人主页：https://gr.xjtu.edu.cn/web/sunjie/home  
+谷歌学术主页：https://scholar.google.com/citations?user=j4kHchUAAAAJ&hl=zh-CN&oi=sra    
+研究领域：Solar Energy, Molecular dynamics  
+
 <div id="中国科学院大学"><div>  
 
 #### 中国科学院大学
